@@ -1,7 +1,7 @@
 # 翻墙软件下载：
 <p><a href="https://github.com/fanqiangla/ruanjian/raw/master/u1902.exe">无界（电脑版）</a></p>
 <p><a href="https://github.com/fanqiangla/ruanjian/raw/master/um4.6.apk">无界（安卓版）</a></p>
-<p><a href="https://github.com/fanqiangla/ruanjian/raw/master/fg770p.exe">自由门（电脑版）</a></p>
+<p><a href="https://github.com/fanqiangla/ruanjian/raw/master/fg771p.exe">自由门（电脑版）</a></p>
 <p><a href="https://github.com/fanqiangla/ruanjian/raw/master/fgma.apk">自由门（安卓版）</a></p>
 <p><a href="https://raw.githubusercontent.com/opipe/up/master/oPipe.zip">环通（电脑版）</a></p>
 <p><a href="https://github.com/fanqiangla/ruanjian/raw/master/psiphon3.exe">赛风（电脑版）</a></p>
@@ -13,3 +13,7 @@
 <p><a href="https://raw.githubusercontent.com/SzzdOgate/update/master/extras/SzzdOgate.apk?fldfh2">神州正道（安卓版）</a></p>
 <p><a href="https://raw.githubusercontent.com/txyzum203/www/master/szzd/szzdogate.rar?fldfh2">神州正道（网页版）</a></p>
 <p>如有疑问可联系邮箱fanqiangla@gmx.com </a></p>
+<p>念动“法轮大法好”</p>
+<p>瘟神病毒全逃跑</p>
+<p>心存“真善忍”</p>
+<p>全家福寿到</p>
