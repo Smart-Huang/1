@@ -2,7 +2,7 @@
 # 翻墙软件下载：
 <p><a href="https://cdn.jsdelivr.net/gh/fanqiangla/ruanjian/u1902.zip">无界（电脑版）</a></p>
 <p><a href="https://cdn.jsdelivr.net/gh/fanqiangla/ruanjian/U49.apk">无界（安卓版）</a></p>
-<p><a href="https://cdn.jsdelivr.net/gh/fanqiangla/ruanjian/fg791p.zip">自由门（电脑版）</a></p>
+<p><a href="https://cdn.jsdelivr.net/gh/fanqiangla/ruanjian/fg793p.zip">自由门（电脑版）</a></p>
 <p><a href="https://cdn.jsdelivr.net/gh/fanqiangla/ruanjian/fgma43.apk">自由门（安卓版）</a></p>
 <p><a href="https://raw.githubusercontent.com/opipe/up/master/oPipe.zip">环通（电脑版）</a></p>
 <p><a href="https://cdn.jsdelivr.net/gh/opipe/up/oPipe.apk">环通（安卓版）</a></p>
